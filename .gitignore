@@ -1,0 +1,19 @@
+# 論文 PDF 全文：二進位大檔，且部分為機構訂閱版，不進版控
+# 取得方式見 papers_pdf/download_oa_pdfs.sh 與下載清單
+papers_pdf/oa_pdfs/
+
+# 工具暫存
+.playwright-mcp/
+.remember/
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
